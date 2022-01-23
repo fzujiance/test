@@ -28,7 +28,7 @@
 		</p>
 		<p>			
 			<img
-			src="img/pic1.jpg"
+			src="pic1.jpg"
 			width="600" height="500"
 			align="left"
 			border="0" usemap="#position"
