@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="utf-8" />
+		<title>实时监测</title>
+	</head>
 	<body>
 		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>
 		原始数据
