@@ -5,21 +5,7 @@
 		<title>实时监测</title>
 	</head>
 	<body>
-		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>
-		原始数据
-		<p>
-			<img src = "img/scope_1.bmp" width="800" height="512" 
-			align="bottom" alt="scope_1"/>
-		</p>
-		<p>
-			<img src = "img/scope_2.bmp" width="800" height="512" 
-			align="middle" alt="scope_2"/>
-		</p>
-		<p>
-			<img src = "img/scope_3.bmp" width="800" height="512" 
-			align="top" alt="scope_3"/>
-		</p>
-		
+		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>		
 		<p><b>点击相应位置的图标</b>实时监测(A、B、C可点击)</p>
 		<p>
 			或点击这里<a href="html/A.html">A</a>,
