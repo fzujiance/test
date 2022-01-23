@@ -16,7 +16,7 @@
 			<img
 			src="./img/pic1.jpg"
 			width="600" height="500"
-			align="left"
+			align="middle"
 			border="0" usemap="#position"
 			alt="摆放位置" />
 			
