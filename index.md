@@ -1,37 +1,65 @@
-## 基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制
-
-You can use the [editor on GitHub](https://github.com/fzujiance/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fzujiance/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+	<body>
+		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>
+		原始数据
+		<p>
+			<img src = "img/scope_1.bmp" width="800" height="512" 
+			align="bottom" alt="scope_1"/>
+		</p>
+		<p>
+			<img src = "img/scope_2.bmp" width="800" height="512" 
+			align="middle" alt="scope_2"/>
+		</p>
+		<p>
+			<img src = "img/scope_3.bmp" width="800" height="512" 
+			align="top" alt="scope_3"/>
+		</p>
+		
+		<p><b>点击相应位置的图标</b>实时监测(A、B、C可点击)</p>
+		<p>
+			或点击这里<a href="html/A.html">A</a>,
+			<a href="html/B.html">B</a>,
+			<a href="html/C.html">C</a>
+		</p>
+		<p>			
+			<img
+			src="img/pic1.jpg"
+			width="600" height="500"
+			align="left"
+			border="0" usemap="#position"
+			alt="摆放位置" />
+			
+			<map name="position" id="position">
+			
+			<area
+			shape="circle"
+			coords="158,400,12"
+			href ="html/A.html"
+			target ="_blank"
+			alt="A" />
+			
+			<area
+			shape="circle"
+			coords="158,335,12"
+			href ="html/B.html"
+			target ="_blank"
+			alt="B" />
+			
+			<area
+			shape="circle"
+			coords="280,400,12"
+			href ="html/C.html"
+			target ="_blank"
+			alt="C" />
+			
+			</map>
+		</p>
+		<p>
+			或点击这里<a href="html/A.html">A</a>,
+			<a href="html/B.html">B</a>,
+			<a href="html/C.html">C</a>
+		</p>
+		
+	</body>
+</html>
