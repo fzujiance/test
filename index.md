@@ -48,9 +48,9 @@
 		</p>
 		<p>
 			或点击这里
-			<a href="./html/A.html">A</a>,
-			<a href="./html/B.html">B</a>,
-			<a href="./html/C.html">C</a>
+			<a href="html/A.html">A</a>,
+			<a href="html/B.html">B</a>,
+			<a href="html/C.html">C</a>
 		</p>
 		
 	</body>
