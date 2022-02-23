@@ -9,7 +9,7 @@
 		<p><b>点击相应位置的图标</b>实时监测(A、B、C可点击)</p>
 		<p>
 			或点击这里
-			<a href="./js/A.js">A</a>,
+			<a href="./js/A.js" target="_blank">A</a>,
 			<a href="./js/B.js">B</a>,
 			<a href="./js/C.js">C</a>
 		</p>
@@ -47,7 +47,7 @@
 			</map>
 		</p>
 		<p>
-			或点击这里
+			又或点击这里
 			<a href="html/A.html">A</a>,
 			<a href="html/B.html">B</a>,
 			<a href="html/C.html">C</a>
