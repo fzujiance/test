@@ -27,21 +27,21 @@
 			shape="circle"
 			coords="158,400,12"
 			href ="./html/A.html"
-			target ="_blank" target="_blank"
+			target ="_blank"
 			alt="A" />
 			
 			<area
 			shape="circle"
 			coords="158,335,12"
 			href ="./html/B.html"
-			target ="_blank" target="_blank"
+			target ="_blank"
 			alt="B" />
 			
 			<area
 			shape="circle"
 			coords="280,400,12"
 			href ="./html/C.html"
-			target ="_blank" target="_blank"
+			target ="_blank"
 			alt="C" />
 			
 			</map>
