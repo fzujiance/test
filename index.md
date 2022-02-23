@@ -10,8 +10,8 @@
 		<p>
 			或点击这里
 			<a href="./js/A.js" target="_blank">A</a>,
-			<a href="./js/B.js">B</a>,
-			<a href="./js/C.js">C</a>
+			<a href="./js/B.js" target="_blank">B</a>,
+			<a href="./js/C.js" target="_blank">C</a>
 		</p>
 		<p>			
 			<img
@@ -27,30 +27,30 @@
 			shape="circle"
 			coords="158,400,12"
 			href ="./html/A.html"
-			target ="_blank"
+			target ="_blank" target="_blank"
 			alt="A" />
 			
 			<area
 			shape="circle"
 			coords="158,335,12"
 			href ="./html/B.html"
-			target ="_blank"
+			target ="_blank" target="_blank"
 			alt="B" />
 			
 			<area
 			shape="circle"
 			coords="280,400,12"
 			href ="./html/C.html"
-			target ="_blank"
+			target ="_blank" target="_blank"
 			alt="C" />
 			
 			</map>
 		</p>
 		<p>
 			又或点击这里
-			<a href="html/A.html">A</a>,
-			<a href="html/B.html">B</a>,
-			<a href="html/C.html">C</a>
+			<a href="html/A.html" target="_blank">A</a>,
+			<a href="html/B.html" target="_blank">B</a>,
+			<a href="html/C.html" target="_blank">C</a>
 		</p>
 		
 	</body>
