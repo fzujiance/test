@@ -6,7 +6,10 @@
 	</head>
 	<body>
 		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>		
-		<p><b>点击相应位置的图标</b>实时监测(A、B、C可点击)</p>
+		<p><b>点击相应位置的图标</b>实时监测页面(A、B、C可点击)</p>
+		<p style="font-family:verdana;color:red">
+		出错了</p>
+		<br/><br/>
 		<p>
 			或点击这里
 			<a href="./js/A.js" target="_blank">A</a>,
@@ -48,9 +51,9 @@
 		</p>
 		<p>
 			又或点击这里
-			<a href="html/A.html" target="_blank">A</a>,
-			<a href="html/B.html" target="_blank">B</a>,
-			<a href="html/C.html" target="_blank">C</a>
+			<a href="js/A.js" target="_blank">A</a>,
+			<a href="js/B.js" target="_blank">B</a>,
+			<a href="js/C.js" target="_blank">C</a>
 		</p>
 		
 	</body>
