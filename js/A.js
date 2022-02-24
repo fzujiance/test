@@ -1,8 +1,2 @@
-<head>
-		<meta charset="utf-8">
-		<title>A</title>
-	</head>
-	<body>
-		<h1>A点监测</h1>
-		
-	</body>
+A点监测
+还没连啊(#｀-_ゝ-)
