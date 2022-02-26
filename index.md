@@ -3,6 +3,10 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>实时监测</title>
+		<style>
+		span.inset {border-style: inset;}
+		p.outset {border-style: outset;}
+		</style>
 	</head>
 	<body>
 		<h1>基于sm掺杂pmn-pt压电取能的变压器振动感知终端研制</h1>		
@@ -55,6 +59,16 @@
 			<a href="js/B.js" target="_blank">B</a>,
 			<a href="js/C.js" target="_blank">C</a>
 		</p>
+		<p class="outset">数据</p>
+		<p>
+			<span class="inset">加速度最大振动幅值</span>
+			&nbsp;&nbsp;<span class="inset">加速度峰值</span>
+		</p>
 		
+		<p class="outset">变压器状态</p>
+		<p>
+		<span style="background-color: green;" class="inset">正常</span>
+		<span style="background-color: red;" class="inset">故障</span>
+		</p>
 	</body>
 </html>
